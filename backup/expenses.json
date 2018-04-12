@@ -1,0 +1,366 @@
+{ 
+    "_id" : ObjectId("59b77d7ed8fd7e0012309823"), 
+    "event" : null, 
+    "total" : NumberInt(100), 
+    "name" : "first expense", 
+    "split" : true, 
+    "coverdBy" : ObjectId("59ad95d9db0d990011192b59"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "notes" : "1", 
+    "expense" : [
+        {
+            "amount" : 3.3333333333333336E1, 
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59b77d7ed8fd7e0012309826")
+        }, 
+        {
+            "amount" : 3.3333333333333336E1, 
+            "user" : ObjectId("59adf1f7db0d990011192b5a"), 
+            "_id" : ObjectId("59b77d7ed8fd7e0012309825")
+        }, 
+        {
+            "amount" : 3.3333333333333336E1, 
+            "user" : ObjectId("59b614cdfd13020012d9e739"), 
+            "_id" : ObjectId("59b77d7ed8fd7e0012309824")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b96fc8cb5e8b0012cba514"), 
+    "event" : ObjectId("59b96fc8cb5e8b0012cba513"), 
+    "total" : NumberInt(150), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59b80d4efa30390012bb4f81"), 
+            "amount" : NumberInt(150), 
+            "_id" : ObjectId("59b96fc8cb5e8b0012cba515")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b970a5cb5e8b0012cba518"), 
+    "event" : null, 
+    "total" : NumberInt(1000), 
+    "name" : "hotel", 
+    "split" : true, 
+    "coverdBy" : ObjectId("59b80d4efa30390012bb4f81"), 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "notes" : null, 
+    "expense" : [
+        {
+            "amount" : NumberInt(500), 
+            "user" : ObjectId("59b80d4efa30390012bb4f81"), 
+            "_id" : ObjectId("59b97106cb5e8b0012cba51a")
+        }, 
+        {
+            "amount" : NumberInt(500), 
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59b97106cb5e8b0012cba519")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9a36d252ae7c399538d2a"), 
+    "event" : ObjectId("59b9a36d252ae7c399538d29"), 
+    "total" : NumberInt(150), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "notes" : "test", 
+    "expense" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "amount" : NumberInt(150), 
+            "_id" : ObjectId("59b9a36d252ae7c399538d2b")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9a3e5252ae7c399538d2f"), 
+    "event" : ObjectId("59b9a3e5252ae7c399538d2e"), 
+    "total" : NumberInt(150), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "notes" : "test", 
+    "expense" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "amount" : NumberInt(150), 
+            "_id" : ObjectId("59b9a3e5252ae7c399538d30")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9a45d252ae7c399538d34"), 
+    "event" : ObjectId("59b9a45d252ae7c399538d33"), 
+    "total" : NumberInt(150), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "notes" : "test", 
+    "expense" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "amount" : NumberInt(150), 
+            "_id" : ObjectId("59b9a45d252ae7c399538d35")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bad8512895cc00120cded0"), 
+    "event" : null, 
+    "total" : NumberInt(120), 
+    "name" : "Hotel", 
+    "split" : true, 
+    "coverdBy" : ObjectId("59b993d6cb5e8b0012cba51b"), 
+    "trip" : ObjectId("59bad7e42895cc00120cdecd"), 
+    "notes" : null, 
+    "expense" : [
+        {
+            "amount" : NumberInt(120), 
+            "user" : ObjectId("59b993d6cb5e8b0012cba51b"), 
+            "_id" : ObjectId("59bad8802895cc00120cded1")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb2c15bfb6850012cb6acd"), 
+    "event" : ObjectId("59bb2c15bfb6850012cb6acc"), 
+    "total" : NumberInt(150), 
+    "name" : "New Expense", 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59bad7e42895cc00120cdecd"), 
+    "notes" : "flre'nfklrenk", 
+    "expense" : [
+        {
+            "user" : ObjectId("59b993d6cb5e8b0012cba51b"), 
+            "amount" : NumberInt(150), 
+            "_id" : ObjectId("59bb2c15bfb6850012cb6ace")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb21c52dc6c692d997205"), 
+    "event" : ObjectId("59bbb21c52dc6c692d997204"), 
+    "total" : NumberInt(130), 
+    "split" : true, 
+    "coverdBy" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "notes" : "asdasd", 
+    "expense" : [
+        {
+            "amount" : NumberInt(130), 
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bbc7abd070d19d7c44abeb")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "name" : "this is "
+}
+{ 
+    "_id" : ObjectId("59bbb2b4e08b366e0377da88"), 
+    "event" : ObjectId("59bbb2b4e08b366e0377da87"), 
+    "total" : NumberInt(130), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "notes" : "asdasd", 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : NumberInt(130), 
+            "_id" : ObjectId("59bbb2b4e08b366e0377da89")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb30b3941bf6ef5acf23f"), 
+    "event" : ObjectId("59bbb30b3941bf6ef5acf23e"), 
+    "total" : NumberInt(130), 
+    "split" : false, 
+    "coverdBy" : ObjectId("59ad95d9db0d990011192b59"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "notes" : "asdasd", 
+    "expense" : [
+        {
+            "amount" : NumberInt(150), 
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bbce537bb164afd9a751a6")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "name" : "name"
+}
+{ 
+    "_id" : ObjectId("59bbb51443c6927463efe5e0"), 
+    "event" : ObjectId("59bbb51443c6927463efe5df"), 
+    "total" : NumberInt(13), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : 4.333333333333333, 
+            "_id" : ObjectId("59bbb51443c6927463efe5e3")
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "amount" : 4.333333333333333, 
+            "_id" : ObjectId("59bbb51443c6927463efe5e2")
+        }, 
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "amount" : 4.333333333333333, 
+            "_id" : ObjectId("59bbb51443c6927463efe5e1")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb51443c6927463efe5e5"), 
+    "event" : ObjectId("59bbb51443c6927463efe5e4"), 
+    "total" : NumberInt(13), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : 4.333333333333333, 
+            "_id" : ObjectId("59bbb51443c6927463efe5e8")
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "amount" : 4.333333333333333, 
+            "_id" : ObjectId("59bbb51443c6927463efe5e7")
+        }, 
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "amount" : 4.333333333333333, 
+            "_id" : ObjectId("59bbb51443c6927463efe5e6")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb54d43c6927463efe5ea"), 
+    "event" : ObjectId("59bbb54d43c6927463efe5e9"), 
+    "total" : NumberInt(1), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb54d43c6927463efe5ec")
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb54d43c6927463efe5eb")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb54d43c6927463efe5ee"), 
+    "event" : ObjectId("59bbb54d43c6927463efe5ed"), 
+    "total" : NumberInt(1), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb54d43c6927463efe5f0")
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb54d43c6927463efe5ef")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb5fabaf62975e2f7ab6d"), 
+    "event" : ObjectId("59bbb5fabaf62975e2f7ab6c"), 
+    "total" : NumberInt(1), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb5fabaf62975e2f7ab6f")
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb5fabaf62975e2f7ab6e")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb5fabaf62975e2f7ab72"), 
+    "event" : ObjectId("59bbb5fabaf62975e2f7ab71"), 
+    "total" : NumberInt(1), 
+    "split" : true, 
+    "coverdBy" : null, 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "expense" : [
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb5fabaf62975e2f7ab74")
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "amount" : 0.5, 
+            "_id" : ObjectId("59bbb5fabaf62975e2f7ab73")
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb29452dc6c692d99720a"), 
+    "event" : ObjectId("59bbb29452dc6c692d997209"), 
+    "total" : NumberInt(130), 
+    "split" : true, 
+    "coverdBy" : ObjectId("59710c4558bc3056f693ea50"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "notes" : "asdasd", 
+    "expense" : [
+        {
+            "amount" : NumberInt(65), 
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bbce387bb164afd9a751a5")
+        }, 
+        {
+            "amount" : NumberInt(65), 
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bbce387bb164afd9a751a4")
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "name" : "name"
+}

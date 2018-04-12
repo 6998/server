@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("59bbcb46cd7f9fadfc9ed400"), 
+    "from" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+    "to" : ObjectId("59ad95d9db0d990011192b59"), 
+    "amount" : NumberInt(10), 
+    "type" : "Card", 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbcb9a7bb164afd9a751a3"), 
+    "from" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+    "to" : ObjectId("59ad95d9db0d990011192b59"), 
+    "amount" : NumberInt(10), 
+    "type" : "Card", 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbd3f9bb807400121ec9f9"), 
+    "from" : ObjectId("59710c4558bc3056f693ea50"), 
+    "to" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+    "amount" : NumberInt(10000), 
+    "type" : "PayPal", 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "__v" : NumberInt(0)
+}

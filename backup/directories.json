@@ -1,0 +1,948 @@
+{ 
+    "_id" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "name" : "king david", 
+    "type" : "sleep", 
+    "subtype" : "bhjlgjy", 
+    "description" : "bhjkgkgukl", 
+    "why" : null, 
+    "rating" : NumberInt(2), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505324905420-fV1Oo", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c9")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c8")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c7")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c6")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c5")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c4")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac0ad3eed400121295c3")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b99c79b113340012c6bb13"), 
+    "name" : "W Hotel", 
+    "type" : "sleep", 
+    "subtype" : "Boutique", 
+    "description" : "The W Montreal offers trendy suites with a spa, a 24/7 fitness center, and three bars with DJ’s.", 
+    "why" : "Rooms – All rooms are suites and a great size for large groups and pre-games\nBars –  The W has the best hotel bar in the city\nLocation – Located at the intersection of Downtown and Old Montreal, within walking distance to many of the city’s best restaurants and nightclubs", 
+    "rating" : NumberInt(3), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99417cb5e8b0012cba51c"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505335524581-Wvlfh", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : "901 Square Victoria, Montreal, QC, H2Z 1R1 Share", 
+    "coordinates" : "", 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea7")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea6")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea5")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea4")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea3")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea2")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59baba8a2895cc00120cdea1")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505336502297-YekZz", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505336517940-7yCaL", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505336524299-KMXFf"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b99f25b113340012c6bb29"), 
+    "name" : "Soubois ", 
+    "type" : "party", 
+    "subtype" : "Supper Club ", 
+    "description" : "This supper club is a multi-level, multi-roomed, multi-colored basement space designed to look like a chalet in an enchanted forest. There are a few bars, many banquettes and lounge-y areas throughout the space.", 
+    "why" : null, 
+    "rating" : NumberInt(4), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99417cb5e8b0012cba51c"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505336969345-A89FU", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb28")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb27")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb26")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb25")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb24")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb23")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59b99f25b113340012c6bb22")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505337051062-zaV8F", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505337060531-w2ZeH", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505337072094-tA3IT"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9b42175ea0a0012c28472"), 
+    "name" : "Garde Manger ", 
+    "type" : "food", 
+    "subtype" : "Seafood ", 
+    "description" : "Happening barlike locale for seafood-focused eats from award-winning chef Chuck Hughes.", 
+    "why" : null, 
+    "rating" : NumberInt(4), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99417cb5e8b0012cba51c"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505409718528-QSPDI", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdeaf")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdeae")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdead")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdeac")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdeab")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdeaa")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bababa2895cc00120cdea9")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505342463415-PgqB2", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505342472533-bcQ73", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505342479794-1bdYv"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59ba9ed52895cc00120cde4d"), 
+    "name" : "The Cosmopolitan ", 
+    "type" : "sleep", 
+    "subtype" : "Hotel and Casino", 
+    "description" : "Situated right on the Las Vegas Strip, this 5-star hotel and casino offers luxury accommodations, signature restaurants and an award-winning spa.", 
+    "why" : "Vibe – Young, trendy and laid back. The people at the Cosmo are there for a good time.\nChandelier Bar –  The jewel of the hotel. The bar is located in the heart of the hotel across three levels, each with their own unique personality and drink menus\nPrivate Terraces – All suites feature their own balcony with breathtaking views of the Las Vegas strip.", 
+    "rating" : NumberInt(4), 
+    "facebook" : null, 
+    "twitter" : "https://twitter.com/Cosmopolitan_LV", 
+    "instagram" : "https://www.instagram.com/cosmopolitan_lv/", 
+    "city" : ObjectId("59b99678cb5e8b0012cba51e"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505409832847-GStdt", 
+    "tags" : "", 
+    "amenitis" : " ", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : "3708 Las Vegas Blvd S Las Vegas, Nevada", 
+    "coordinates" : null, 
+    "phone" : "(702) 698-7000", 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdecc")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdecb")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdeca")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdec9")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdec8")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdec7")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bad6d62895cc00120cdec6")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505402477329-u7Dqx", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505402485701-Gh0g2", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505402506417-ukr9W"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59baa17c2895cc00120cde59"), 
+    "name" : "XS", 
+    "type" : "party", 
+    "subtype" : "Mega Club ", 
+    "description" : "As soon as you walk through the golden entryway and spot the gold lining on the walls you’ll understand why this club is called XS", 
+    "why" : "Voted the #1 Nightclub in the US 5 years in a row by Nightclub and Bars Top 100. Their weekly Sunday NightSwim events during the summer is unlike anything you’ve ever experienced. \n", 
+    "rating" : NumberInt(5), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99678cb5e8b0012cba51e"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505402673929-ejAPm", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde58")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde57")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde56")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde55")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde54")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde53")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa17c2895cc00120cde52")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505403235408-LSQrL", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505403241258-yXdmm", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505403247488-sZoB4"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59baa7a82895cc00120cde6d"), 
+    "name" : "STK ", 
+    "type" : "food", 
+    "subtype" : "Steakhouse", 
+    "description" : "Hip, lively restaurant & lounge at the Cosmopolitan serving steaks in a dark, ultramodern setting.", 
+    "why" : "The live DJ really elevates the mood making it a smooth progression into the night. ", 
+    "rating" : NumberInt(4), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99678cb5e8b0012cba51e"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505404836843-0aAHL", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde6c")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde6b")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde6a")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde69")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde68")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde67")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baa7a82895cc00120cde66")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505404800228-keslx", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505404806158-nJrjf", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505404811869-DGgx7"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bab09f2895cc00120cde8c"), 
+    "name" : "JW Marriott ", 
+    "type" : "sleep", 
+    "subtype" : "Hotel ", 
+    "description" : "This upscale hotel in downtown Austin is fitted with contemporary rooms and offers 2 restaurants, a bar and a Starbucks coffee shop. There's a rooftop pool with a deck to beat the Austin heat.  ", 
+    "why" : "The best location in the game midway between the Warehouse District and Sixth Street.", 
+    "rating" : NumberInt(4), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99879cb5e8b0012cba520"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505406514912-22wLG", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde8b")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde8a")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde89")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde88")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde87")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde86")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab09f2895cc00120cde85")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505406980748-lAo50", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505406988135-o0cCp", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505406994062-VT06g"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bab47b2895cc00120cde97"), 
+    "name" : "La Condesa ", 
+    "type" : "food", 
+    "subtype" : "Mexican ", 
+    "description" : "Trendy modern restaurant putting their own twist on traditional Mexican dishes all served out of one of the city's most eye catching spaces. ", 
+    "why" : "The margaritas are on a next level. Swing by during happy hour for half-priced bar snacks like their signature elotes and a sampler of four different guacs. ", 
+    "rating" : NumberInt(3), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99879cb5e8b0012cba520"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505407483257-JqGxV", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde96")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde95")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde94")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde93")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde92")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde91")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab47b2895cc00120cde90")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505408106035-GsHg7", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505408112090-rnH3o"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bab93b2895cc00120cdea0"), 
+    "name" : "Rainey Street ", 
+    "type" : "party", 
+    "subtype" : "Bar", 
+    "description" : "Renovated houses turned into bars line this popular tucked away street. Day or night, you’ll find bar-goers hopping from bar to bar looking for a laid back drink. ", 
+    "why" : "Each bar is unique and the vibe is relaxed. A great alternative to Sixth street. ", 
+    "rating" : NumberInt(2), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99879cb5e8b0012cba520"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505408640020-yWExF", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde9f")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde9e")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde9d")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde9c")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde9b")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde9a")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59bab93b2895cc00120cde99")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59baf0d32895cc00120cdeda"), 
+    "name" : "Sixth Street ", 
+    "type" : "party", 
+    "subtype" : "Bars", 
+    "description" : "Sixth Street is distinctly Austin. With its colorful and bustling array of bars, restaurants and entertainment venues, it’s a sure bet for experiencing local characters and the vibrancy of the city. Hop from bar to bar and even grab a bite on the fly. ", 
+    "why" : "It reminds us of college", 
+    "rating" : NumberInt(2), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99879cb5e8b0012cba520"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505422954985-1lbSJ", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded9")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded8")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded7")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded6")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded5")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded4")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf0d32895cc00120cded3")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59baf3dc2895cc00120cdee5"), 
+    "name" : "Kampai Gardens ", 
+    "type" : "party", 
+    "subtype" : "Beer Garden ", 
+    "description" : "The name and concept might imply a beer garden, but with cocktails devised by pro mixologists and a world-renowned chef in charge of the menu, it’s anything but.", 
+    "why" : "Kampai Garden is sexy, dark and where the locals like to hang out.", 
+    "rating" : NumberInt(3), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99417cb5e8b0012cba51c"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505423811436-0LYvo", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdee4")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdee3")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdee2")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdee1")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdee0")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdedf")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf3dc2895cc00120cdede")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505424279096-YJUVD", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505424284642-Q3R9E"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59baf61b2895cc00120cdef0"), 
+    "name" : "New City Gas", 
+    "type" : "party", 
+    "subtype" : "Nightclub ", 
+    "description" : "A Montreal staple in the nightlife scene, if you’re looking for the “Vegas like” clubs with big sound, bright lights and big-name EDM DJ’s then NCG is the place to be.", 
+    "why" : "More than just a spot for EDM lovers, NCG also hosts a kickass outdoor 5 à 7 (happy hour) on Thursday’s during the summer.", 
+    "rating" : NumberInt(4), 
+    "facebook" : null, 
+    "twitter" : null, 
+    "instagram" : null, 
+    "city" : ObjectId("59b99417cb5e8b0012cba51c"), 
+    "logo" : "https://gonedo-upload-development.s3.amazonaws.com/1505424489043-JD1fx", 
+    "tags" : "", 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "address" : null, 
+    "coordinates" : null, 
+    "phone" : null, 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : "", 
+    "schedule" : [
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdeef")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdeee")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdeed")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdeec")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdeeb")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdeea")
+        }, 
+        {
+            "open" : "", 
+            "close" : "", 
+            "_id" : ObjectId("59baf61b2895cc00120cdee9")
+        }
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+        "https://gonedo-upload-development.s3.amazonaws.com/1505424895056-ffCc1", 
+        "https://gonedo-upload-development.s3.amazonaws.com/1505424912278-P4P8v"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5945bea5b45ce33a05928a8a"), 
+    "__v" : NumberInt(0), 
+    "name" : "barak1234", 
+    "type" : "play", 
+    "website" : "1235656435", 
+    "tags" : "", 
+    "schedule" : [
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295d0")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295cf")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295ce")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295cd")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295cc")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295cb")
+        }, 
+        {
+            "close" : "", 
+            "open" : "", 
+            "_id" : ObjectId("59bbac4cd3eed400121295ca")
+        }
+    ], 
+    "phones" : [
+
+    ], 
+    "comments" : [
+
+    ], 
+    "photos" : [
+
+    ], 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "amenitis" : "", 
+    "musicType" : "", 
+    "dressCode" : "", 
+    "roomAmenitis" : "", 
+    "hotelAmenitis" : ""
+}

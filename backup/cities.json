@@ -1,0 +1,49 @@
+{ 
+    "_id" : ObjectId("59b99678cb5e8b0012cba51e"), 
+    "title" : "Las Vegas ", 
+    "description" : "Sin City, Entertainment Capital of the World, The Strip, whatever you call it there's no denying Las Vegas is the Mecca of bachelor(ette) parties. ", 
+    "active" : true, 
+    "images" : {
+        "main" : "https://gonedo-upload-development.s3.amazonaws.com/1505334501006-x71zR", 
+        "party" : ObjectId("59baa17c2895cc00120cde59"), 
+        "sleep" : ObjectId("59ba9ed52895cc00120cde4d"), 
+        "food" : ObjectId("59baa7a82895cc00120cde6d")
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b99879cb5e8b0012cba520"), 
+    "title" : "Austin ", 
+    "description" : "With a city slogan like “Keep Austin Weird,” Austin is like the cool kid who doesn’t give any fucks", 
+    "active" : true, 
+    "images" : {
+        "main" : "https://gonedo-upload-development.s3.amazonaws.com/1505406045698-GS5A5", 
+        "party" : ObjectId("59bab93b2895cc00120cdea0"), 
+        "sleep" : ObjectId("59bab09f2895cc00120cde8c"), 
+        "food" : ObjectId("59bab47b2895cc00120cde97")
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b99417cb5e8b0012cba51c"), 
+    "title" : "Montreal", 
+    "description" : "There may not be a better city in the world for a bachelor(ette) party. You’ll be hard pressed to find someone who’s been there and had a bad time. After all, Montreal has amazing food, nightlife and beautiful looking people. Oh, and did we mention extremely affordable thanks to a strong US dollar compared to the monopoly money they use up north. ", 
+    "active" : true, 
+    "images" : {
+        "main" : "https://gonedo-upload-development.s3.amazonaws.com/1505405673894-n0Ynv", 
+        "party" : ObjectId("59b99f25b113340012c6bb29"), 
+        "sleep" : ObjectId("59b99c79b113340012c6bb13"), 
+        "food" : ObjectId("59b9b42175ea0a0012c28472")
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "title" : "Tel Aviv", 
+    "description" : "Cool City", 
+    "active" : true, 
+    "images" : {
+        "main" : "https://gonedo-upload-development.s3.amazonaws.com/1505343281115-6SuKr"
+    }, 
+    "__v" : NumberInt(0)
+}

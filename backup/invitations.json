@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("59b8a6ccae092ea1d7640812"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "inviter" : ObjectId("59ad95d9db0d990011192b59"), 
+    "message" : "sdf", 
+    "email" : "sdfs@sds.comsdf", 
+    "used" : false, 
+    "date" : ISODate("2017-09-13T03:32:05.349+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b8a6edae092ea1d7640813"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "inviter" : ObjectId("59ad95d9db0d990011192b59"), 
+    "message" : "hey\n11", 
+    "email" : "ribbonlover101@gmail.com", 
+    "used" : false, 
+    "date" : ISODate("2017-09-13T03:32:05.349+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b99c9a2f35bebfdaa3b95a"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "inviter" : ObjectId("59ad95d9db0d990011192b59"), 
+    "message" : "YO YO YO", 
+    "email" : "test124@test.com", 
+    "used" : false, 
+    "date" : ISODate("2017-09-13T20:44:01.174+0000"), 
+    "__v" : NumberInt(0)
+}

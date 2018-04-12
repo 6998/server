@@ -1,0 +1,231 @@
+{ 
+    "_id" : ObjectId("59b96fc8cb5e8b0012cba513"), 
+    "cost" : NumberInt(150), 
+    "day" : ObjectId("59b96fc8cb5e8b0012cba512"), 
+    "city" : ObjectId("59b613cafd13020012d9e72f"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-12-04T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59b80d4efa30390012bb4f81")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9a36d252ae7c399538d29"), 
+    "cost" : NumberInt(150), 
+    "day" : ObjectId("59b613fbfd13020012d9e733"), 
+    "city" : ObjectId("59b613cafd13020012d9e72f"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "test", 
+    "date" : ISODate("2017-02-01T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59ad95d9db0d990011192b59")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9a3e5252ae7c399538d2e"), 
+    "cost" : NumberInt(150), 
+    "day" : ObjectId("59b613fbfd13020012d9e733"), 
+    "city" : ObjectId("59b613cafd13020012d9e72f"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "test", 
+    "date" : ISODate("2017-02-01T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59ad95d9db0d990011192b59")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b9a45d252ae7c399538d33"), 
+    "cost" : NumberInt(150), 
+    "day" : ObjectId("59b613fbfd13020012d9e733"), 
+    "city" : ObjectId("59b613cafd13020012d9e72f"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "test", 
+    "date" : ISODate("2017-02-01T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59ad95d9db0d990011192b59")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb2c15bfb6850012cb6acc"), 
+    "cost" : NumberInt(150), 
+    "day" : ObjectId("59bb2c15bfb6850012cb6aca"), 
+    "city" : ObjectId("59b99678cb5e8b0012cba51e"), 
+    "type" : "sleep", 
+    "notes" : "flre'nfklrenk", 
+    "date" : ISODate("2017-09-16T04:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59b993d6cb5e8b0012cba51b")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb21c52dc6c692d997204"), 
+    "cost" : NumberInt(130), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae5"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "asdasd", 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb29452dc6c692d997209"), 
+    "cost" : NumberInt(130), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae5"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "asdasd", 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb2b4e08b366e0377da87"), 
+    "cost" : NumberInt(130), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae5"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "asdasd", 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb30b3941bf6ef5acf23e"), 
+    "cost" : NumberInt(130), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae5"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "notes" : "asdasd", 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb51443c6927463efe5df"), 
+    "cost" : NumberInt(13), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae6"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50"), 
+        ObjectId("59b991094ce6b9b5b125e8a3"), 
+        ObjectId("59ad95d9db0d990011192b59")
+    ], 
+    "__v" : NumberInt(0), 
+    "childEvent" : ObjectId("59bbb51443c6927463efe5e4")
+}
+{ 
+    "_id" : ObjectId("59bbb51443c6927463efe5e4"), 
+    "cost" : NumberInt(13), 
+    "day" : ObjectId("59bbb51443c6927463efe5de"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-01-02T05:00:00.000+0000"), 
+    "subtype" : "end", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50"), 
+        ObjectId("59b991094ce6b9b5b125e8a3"), 
+        ObjectId("59ad95d9db0d990011192b59")
+    ], 
+    "__v" : NumberInt(0), 
+    "parentEvent" : ObjectId("59bbb51443c6927463efe5df")
+}
+{ 
+    "_id" : ObjectId("59bbb54d43c6927463efe5e9"), 
+    "cost" : NumberInt(1), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae6"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50"), 
+        ObjectId("59b991094ce6b9b5b125e8a3")
+    ], 
+    "__v" : NumberInt(0), 
+    "childEvent" : ObjectId("59bbb54d43c6927463efe5ed")
+}
+{ 
+    "_id" : ObjectId("59bbb54d43c6927463efe5ed"), 
+    "cost" : NumberInt(1), 
+    "day" : ObjectId("59bbb51443c6927463efe5de"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-01-02T05:00:00.000+0000"), 
+    "subtype" : "end", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50"), 
+        ObjectId("59b991094ce6b9b5b125e8a3")
+    ], 
+    "__v" : NumberInt(0), 
+    "parentEvent" : ObjectId("59bbb54d43c6927463efe5e9")
+}
+{ 
+    "_id" : ObjectId("59bbb5fabaf62975e2f7ab6c"), 
+    "cost" : NumberInt(1), 
+    "day" : ObjectId("59b86b9845b23d19e6c38ae6"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-01-01T06:00:00.000+0000"), 
+    "subtype" : "start", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50"), 
+        ObjectId("59b991094ce6b9b5b125e8a3")
+    ], 
+    "__v" : NumberInt(0), 
+    "childEvent" : ObjectId("59bbb5fabaf62975e2f7ab71")
+}
+{ 
+    "_id" : ObjectId("59bbb5fabaf62975e2f7ab71"), 
+    "cost" : NumberInt(1), 
+    "day" : ObjectId("59bbb51443c6927463efe5de"), 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "type" : "sleep", 
+    "where" : ObjectId("59b96f7bcb5e8b0012cba511"), 
+    "date" : ISODate("2017-01-02T05:00:00.000+0000"), 
+    "subtype" : "end", 
+    "participants" : [
+        ObjectId("59710c4558bc3056f693ea50"), 
+        ObjectId("59b991094ce6b9b5b125e8a3")
+    ], 
+    "__v" : NumberInt(0), 
+    "parentEvent" : ObjectId("59bbb5fabaf62975e2f7ab6c")
+}

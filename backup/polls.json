@@ -1,0 +1,430 @@
+{ 
+    "_id" : ObjectId("59bb61ad346b8c841f4bc134"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "chat" : [
+
+    ], 
+    "poll" : [
+
+    ], 
+    "date" : ISODate("2017-09-15T05:13:19.323+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb61dc497669851fdaa017"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "chat" : [
+
+    ], 
+    "poll" : [
+
+    ], 
+    "date" : ISODate("2017-09-15T05:14:58.714+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb61fdc9f0b985f05a8c31"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "chat" : [
+
+    ], 
+    "poll" : [
+
+    ], 
+    "date" : ISODate("2017-09-15T05:15:38.140+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb62a8e3bbd6019caaed82"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "first...", 
+    "chat" : [
+
+    ], 
+    "poll" : [
+
+    ], 
+    "date" : ISODate("2017-09-15T05:16:37.478+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb63635c04bd04b90f7089"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "yo!", 
+    "chat" : [
+        {
+            "content" : "59bb66c71caa0a0cf7910415", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb72867f79bc2ebf07ad3a"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T06:26:08.124+0000")
+        }, 
+        {
+            "content" : "yoooooo", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb82c3fa499d3831213d66"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:35:06.936+0000")
+        }, 
+        {
+            "content" : "testttt", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb82eafa499d3831213d67"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:35:06.936+0000")
+        }, 
+        {
+            "content" : "123123", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb834efa499d3831213d68"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:35:06.936+0000")
+        }, 
+        {
+            "content" : "11", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb8374fa499d3831213d69"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:35:06.936+0000")
+        }, 
+        {
+            "content" : "222", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb83a7fa499d3831213d6a"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:35:06.936+0000")
+        }, 
+        {
+            "content" : "222", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb83f6dd18773990e284b4"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:40:23.474+0000")
+        }, 
+        {
+            "content" : "444", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb8421dd18773990e284b5"), 
+            "viewList" : [
+
+            ], 
+            "date" : ISODate("2017-09-15T07:40:23.474+0000")
+        }
+    ], 
+    "poll" : [
+
+    ], 
+    "date" : ISODate("2017-09-15T05:21:29.842+0000"), 
+    "__v" : NumberInt(0), 
+    "options" : [
+        {
+            "votes" : [
+                ObjectId("59710c4558bc3056f693ea50"), 
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "_id" : ObjectId("59bb9b26e363e84b841c49a5"), 
+            "title" : "first"
+        }, 
+        {
+            "votes" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "_id" : ObjectId("59bb9b26e363e84b841c49a4"), 
+            "title" : "second"
+        }, 
+        {
+            "votes" : [
+
+            ], 
+            "_id" : ObjectId("59bb9b26e363e84b841c49a3"), 
+            "title" : "yooo"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("59bb91d28bac6e42e0fd1a97"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "Option 1", 
+            "_id" : ObjectId("59bb91d28bac6e42e0fd1a99"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "Option 2", 
+            "_id" : ObjectId("59bb91d28bac6e42e0fd1a98"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T08:16:15.013+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb92758bac6e42e0fd1a9c"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "first...", 
+    "chat" : [
+
+    ], 
+    "options" : [
+
+    ], 
+    "date" : ISODate("2017-09-15T08:16:15.013+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba5d9c70c8e5658c8215d"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba5d9c70c8e5658c8215f"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba5d9c70c8e5658c8215e"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:03:22.327+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba62567088e5783d97eea"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba62567088e5783d97eec"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba62567088e5783d97eeb"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:06:12.736+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba65db054b2586e6153a6"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba65db054b2586e6153a8"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba65db054b2586e6153a7"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:07:06.685+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba678b054b2586e6153a9"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba678b054b2586e6153ab"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba678b054b2586e6153aa"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:07:06.685+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba6c6b054b2586e6153ac"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba6c6b054b2586e6153ae"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba6c6b054b2586e6153ad"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:07:06.685+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba6ceb054b2586e6153af"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba6ceb054b2586e6153b1"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba6ceb054b2586e6153b0"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:07:06.685+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bba97d62536b614131e1f4"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bba97d62536b614131e1f6"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bba97d62536b614131e1f5"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:20:20.274+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb938e233f13485a4b7dba"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "votes" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "_id" : ObjectId("59bb9496233f13485a4b7dc4"), 
+            "title" : "first"
+        }, 
+        {
+            "votes" : [
+
+            ], 
+            "_id" : ObjectId("59bb9496233f13485a4b7dc3"), 
+            "title" : "second"
+        }
+    ], 
+    "date" : ISODate("2017-09-15T08:47:02.619+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbaa570f08ae633d97d9e5"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "title" : "New Poll", 
+    "chat" : [
+
+    ], 
+    "options" : [
+        {
+            "title" : "first", 
+            "_id" : ObjectId("59bbaa570f08ae633d97d9e7"), 
+            "votes" : [
+
+            ]
+        }, 
+        {
+            "title" : "second", 
+            "_id" : ObjectId("59bbaa570f08ae633d97d9e6"), 
+            "votes" : [
+
+            ]
+        }
+    ], 
+    "date" : ISODate("2017-09-15T10:23:39.126+0000"), 
+    "__v" : NumberInt(0)
+}

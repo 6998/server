@@ -1,0 +1,314 @@
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e731"), 
+    "trip" : "59b613fbfd13020012d9e730", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-11T04:38:40.646+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b80d6ffa30390012bb4f83"), 
+    "trip" : "59b80d6ffa30390012bb4f82", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T06:26:22.470+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b846bb7ba8536c3b24edff"), 
+    "trip" : "59b846ba7ba8536c3b24edfe", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T20:28:41.845+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869ee79cf6e1534d5d441"), 
+    "trip" : "59b869ee79cf6e1534d5d440", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T23:12:39.950+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86a33edd1f115e566cc63"), 
+    "trip" : "59b86a33edd1f115e566cc62", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T23:13:42.797+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86a41edd1f115e566cc67"), 
+    "trip" : "59b86a41edd1f115e566cc66", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T23:13:42.797+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86ae7b8a422173bb22795"), 
+    "trip" : "59b86ae7b8a422173bb22794", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T23:16:51.609+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b1ba20bd417e8df7683"), 
+    "trip" : "59b86b1ba20bd417e8df7682", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-12T23:17:38.681+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bad7e52895cc00120cdece"), 
+    "trip" : "59bad7e42895cc00120cdecd", 
+    "chat" : [
+
+    ], 
+    "date" : ISODate("2017-09-13T23:25:07.902+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b9845b23d19e6c38ae4"), 
+    "trip" : "59b86b9845b23d19e6c38ae3", 
+    "chat" : [
+        {
+            "content" : "yo", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb59ec4cc3150012d0de80"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T03:42:22.525+0000")
+        }, 
+        {
+            "content" : "123", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb5ac54cc3150012d0de81"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T03:42:22.525+0000")
+        }, 
+        {
+            "content" : "barak", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb5ae54cc3150012d0de82"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T03:42:22.525+0000")
+        }, 
+        {
+            "content" : "123", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb5b254cc3150012d0de83"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T03:42:22.525+0000")
+        }, 
+        {
+            "content" : "sss", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb5bbe4cc3150012d0de84"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T03:42:22.525+0000")
+        }, 
+        {
+            "content" : "123123123123", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb5bdc4cc3150012d0de85"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T03:42:22.525+0000")
+        }, 
+        {
+            "content" : "barak 123", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb808a7f79bc2ebf07ad3b"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T06:26:08.114+0000")
+        }, 
+        {
+            "content" : "hey", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9b91e363e84b841c49a6"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "hey", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9b95e363e84b841c49a7"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "123", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9bf3e363e84b841c49a8"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "2222", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9c6ae363e84b841c49a9"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "123123123123123", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9c86e363e84b841c49aa"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "aaa", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9cb8e363e84b841c49ab"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "calling", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bb9e1a0b70810012b0718b"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T07:28:07.242+0000")
+        }, 
+        {
+            "content" : "barak", 
+            "sender" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bb9e3be363e84b841c49ac"), 
+            "viewList" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "sssss", 
+            "sender" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bb9e58e363e84b841c49ad"), 
+            "viewList" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "12321321", 
+            "sender" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bb9e92e363e84b841c49ae"), 
+            "viewList" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "asdasdas", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9ec3e363e84b841c49af"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "asdsad", 
+            "sender" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bb9ecae363e84b841c49b0"), 
+            "viewList" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "asdasd", 
+            "sender" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bb9ed2e363e84b841c49b1"), 
+            "viewList" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "asdsad", 
+            "sender" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "_id" : ObjectId("59bb9edde363e84b841c49b2"), 
+            "viewList" : [
+                ObjectId("59b991094ce6b9b5b125e8a3")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "asdsad", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9ee4e363e84b841c49b3"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "11111111111", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bb9ef5e363e84b841c49b4"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:04:55.872+0000")
+        }, 
+        {
+            "content" : "barak is texting", 
+            "sender" : ObjectId("59ad95d9db0d990011192b59"), 
+            "_id" : ObjectId("59bba16ad3eed400121295c1"), 
+            "viewList" : [
+                ObjectId("59ad95d9db0d990011192b59")
+            ], 
+            "date" : ISODate("2017-09-15T09:44:55.192+0000")
+        }, 
+        {
+            "content" : "Test is texting", 
+            "sender" : ObjectId("59710c4558bc3056f693ea50"), 
+            "_id" : ObjectId("59bba185d3eed400121295c2"), 
+            "viewList" : [
+                ObjectId("59710c4558bc3056f693ea50")
+            ], 
+            "date" : ISODate("2017-09-15T09:44:55.192+0000")
+        }
+    ], 
+    "date" : ISODate("2017-09-12T23:19:48.166+0000"), 
+    "__v" : NumberInt(0)
+}

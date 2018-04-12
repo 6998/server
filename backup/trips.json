@@ -1,0 +1,247 @@
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e730"), 
+    "owner" : ObjectId("59ad95d9db0d990011192b59"), 
+    "title" : "first trip", 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "payments" : [
+
+    ], 
+    "expenses" : [
+        ObjectId("59b9a36d252ae7c399538d2a"), 
+        ObjectId("59b9a3e5252ae7c399538d2f"), 
+        ObjectId("59b9a45d252ae7c399538d34")
+    ], 
+    "invitations" : [
+
+    ], 
+    "days" : [
+        ObjectId("59b613fbfd13020012d9e733"), 
+        ObjectId("59b613fbfd13020012d9e732"), 
+        ObjectId("59b613fbfd13020012d9e734"), 
+        ObjectId("59b613fbfd13020012d9e735"), 
+        ObjectId("59b613fbfd13020012d9e736")
+    ], 
+    "participants" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }, 
+        {
+            "user" : ObjectId("59b80d4efa30390012bb4f81"), 
+            "permissions" : [
+                "user"
+            ]
+        }, 
+        {
+            "user" : ObjectId("59b9a60c75ea0a0012c28466"), 
+            "permissions" : [
+                "user"
+            ]
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "owner" : ObjectId("59b993d6cb5e8b0012cba51b"), 
+    "title" : "Middle East Madness", 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "payments" : [
+
+    ], 
+    "expenses" : [
+        ObjectId("59b96fc8cb5e8b0012cba514"), 
+        ObjectId("59b970a5cb5e8b0012cba518")
+    ], 
+    "invitations" : [
+
+    ], 
+    "days" : [
+        ObjectId("59b80d6ffa30390012bb4f84"), 
+        ObjectId("59b80d6ffa30390012bb4f87"), 
+        ObjectId("59b80d6ffa30390012bb4f86"), 
+        ObjectId("59b80d6ffa30390012bb4f85"), 
+        ObjectId("59b96fc8cb5e8b0012cba512")
+    ], 
+    "participants" : [
+        {
+            "user" : ObjectId("59b80d4efa30390012bb4f81"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }, 
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "permissions" : [
+                "user"
+            ]
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b846ba7ba8536c3b24edfe"), 
+    "owner" : ObjectId("59ad95d9db0d990011192b59"), 
+    "title" : "test", 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "payments" : [
+
+    ], 
+    "expenses" : [
+
+    ], 
+    "invitations" : [
+
+    ], 
+    "days" : [
+        ObjectId("59b846bb7ba8536c3b24ee00"), 
+        ObjectId("59b846bb7ba8536c3b24ee01"), 
+        ObjectId("59b846bb7ba8536c3b24ee02")
+    ], 
+    "participants" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b1ba20bd417e8df7682"), 
+    "owner" : ObjectId("59ad95d9db0d990011192b59"), 
+    "title" : "Chat test", 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "payments" : [
+
+    ], 
+    "expenses" : [
+
+    ], 
+    "invitations" : [
+
+    ], 
+    "days" : [
+        ObjectId("59b86b1ba20bd417e8df7685"), 
+        ObjectId("59b86b1ba20bd417e8df7684")
+    ], 
+    "participants" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "chat" : ObjectId("59b86b1ba20bd417e8df7683")
+}
+{ 
+    "_id" : ObjectId("59bad7e42895cc00120cdecd"), 
+    "owner" : ObjectId("59b993d6cb5e8b0012cba51b"), 
+    "title" : "Orens Bach", 
+    "city" : ObjectId("59b99678cb5e8b0012cba51e"), 
+    "payments" : [
+
+    ], 
+    "expenses" : [
+        ObjectId("59bad8512895cc00120cded0"), 
+        ObjectId("59bb2c15bfb6850012cb6acd")
+    ], 
+    "invitations" : [
+
+    ], 
+    "days" : [
+        ObjectId("59bad7e52895cc00120cdecf"), 
+        ObjectId("59bb2c15bfb6850012cb6aca"), 
+        ObjectId("59bb2c15bfb6850012cb6acb")
+    ], 
+    "participants" : [
+        {
+            "user" : ObjectId("59b993d6cb5e8b0012cba51b"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "chat" : ObjectId("59bad7e52895cc00120cdece")
+}
+{ 
+    "_id" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "owner" : ObjectId("59ad95d9db0d990011192b59"), 
+    "title" : "Chat test", 
+    "city" : ObjectId("59b9b73d75ea0a0012c28474"), 
+    "payments" : [
+        ObjectId("59bbcb46cd7f9fadfc9ed400"), 
+        ObjectId("59bbcb9a7bb164afd9a751a3"), 
+        ObjectId("59bbd3f9bb807400121ec9f9")
+    ], 
+    "expenses" : [
+        ObjectId("59bbb21c52dc6c692d997205"), 
+        ObjectId("59bbb29452dc6c692d99720a"), 
+        ObjectId("59bbb2b4e08b366e0377da88"), 
+        ObjectId("59bbb30b3941bf6ef5acf23f"), 
+        ObjectId("59bbb51443c6927463efe5e0"), 
+        ObjectId("59bbb51443c6927463efe5e5"), 
+        ObjectId("59bbb54d43c6927463efe5ea"), 
+        ObjectId("59bbb54d43c6927463efe5ee"), 
+        ObjectId("59bbb5fabaf62975e2f7ab6d"), 
+        ObjectId("59bbb5fabaf62975e2f7ab72")
+    ], 
+    "invitations" : [
+        ObjectId("59b99c9a2f35bebfdaa3b95a")
+    ], 
+    "days" : [
+        ObjectId("59b86b9845b23d19e6c38ae5"), 
+        ObjectId("59b86b9845b23d19e6c38ae6"), 
+        ObjectId("59bbb51443c6927463efe5de")
+    ], 
+    "participants" : [
+        {
+            "user" : ObjectId("59ad95d9db0d990011192b59"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }, 
+        {
+            "user" : ObjectId("59710c4558bc3056f693ea50"), 
+            "permissions" : [
+                "user", 
+                "admin"
+            ]
+        }, 
+        {
+            "user" : ObjectId("59b991094ce6b9b5b125e8a3"), 
+            "permissions" : [
+                "admin", 
+                "user"
+            ]
+        }
+    ], 
+    "__v" : NumberInt(0), 
+    "chat" : ObjectId("59b86b9845b23d19e6c38ae4"), 
+    "polls" : [
+        ObjectId("59bb63635c04bd04b90f7089"), 
+        ObjectId("59bb938e233f13485a4b7dba"), 
+        ObjectId("59bb93ba233f13485a4b7dc0"), 
+        ObjectId("59bba5d9c70c8e5658c8215d"), 
+        ObjectId("59bba61a67088e5783d97ee7"), 
+        ObjectId("59bba62567088e5783d97eea"), 
+        ObjectId("59bba65db054b2586e6153a6"), 
+        ObjectId("59bba678b054b2586e6153a9"), 
+        ObjectId("59bba6c6b054b2586e6153ac"), 
+        ObjectId("59bba6ceb054b2586e6153af"), 
+        ObjectId("59bba97d62536b614131e1f4"), 
+        ObjectId("59bbaa570f08ae633d97d9e5")
+    ]
+}

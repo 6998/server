@@ -1,0 +1,159 @@
+{ 
+    "v" : NumberInt(1), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.users"
+}
+{ 
+    "v" : NumberInt(1), 
+    "unique" : true, 
+    "key" : {
+        "email" : NumberInt(1)
+    }, 
+    "name" : "email_1", 
+    "ns" : "gonedo-server-staging-sandbox.users", 
+    "sparse" : true, 
+    "background" : true
+}
+{ 
+    "v" : NumberInt(1), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.sessions"
+}
+{ 
+    "v" : NumberInt(1), 
+    "key" : {
+        "expires" : NumberInt(1)
+    }, 
+    "name" : "expires_1", 
+    "ns" : "gonedo-server-staging-sandbox.sessions", 
+    "expireAfterSeconds" : NumberInt(0)
+}
+{ 
+    "v" : NumberInt(1), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.directories"
+}
+{ 
+    "v" : NumberInt(1), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.adminparams"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.cities"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.trips"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.chats"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.days"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.uploads"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.expenses"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.user"
+}
+{ 
+    "v" : NumberInt(2), 
+    "unique" : true, 
+    "key" : {
+        "email" : NumberInt(1)
+    }, 
+    "name" : "email_1", 
+    "ns" : "gonedo-server-staging-sandbox.user", 
+    "sparse" : true, 
+    "background" : true
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.invitations"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.events"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.polls"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.notifications"
+}
+{ 
+    "v" : NumberInt(2), 
+    "key" : {
+        "_id" : NumberInt(1)
+    }, 
+    "name" : "_id_", 
+    "ns" : "gonedo-server-staging-sandbox.payments"
+}

@@ -1,0 +1,342 @@
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e732"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "date" : ISODate("2017-02-01T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e734"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "date" : ISODate("2017-02-03T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e735"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "date" : ISODate("2017-02-04T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e736"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "date" : ISODate("2017-02-05T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b80d6ffa30390012bb4f84"), 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "date" : ISODate("2017-12-05T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b80d6ffa30390012bb4f86"), 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "date" : ISODate("2017-12-07T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b80d6ffa30390012bb4f85"), 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "date" : ISODate("2017-12-06T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b80d6ffa30390012bb4f87"), 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "date" : ISODate("2017-12-08T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b846bb7ba8536c3b24ee00"), 
+    "trip" : ObjectId("59b846ba7ba8536c3b24edfe"), 
+    "date" : ISODate("2017-01-04T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b846bb7ba8536c3b24ee01"), 
+    "trip" : ObjectId("59b846ba7ba8536c3b24edfe"), 
+    "date" : ISODate("2017-01-05T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b846bb7ba8536c3b24ee02"), 
+    "trip" : ObjectId("59b846ba7ba8536c3b24edfe"), 
+    "date" : ISODate("2017-01-06T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b868e7d810bc12654e1387"), 
+    "trip" : ObjectId("59b868e7d810bc12654e1386"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b868e7d810bc12654e1388"), 
+    "trip" : ObjectId("59b868e7d810bc12654e1386"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869265cca931325e235e2"), 
+    "trip" : ObjectId("59b869265cca931325e235e1"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869265cca931325e235e3"), 
+    "trip" : ObjectId("59b869265cca931325e235e1"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b8695a476f2413cef5d015"), 
+    "trip" : ObjectId("59b8695a476f2413cef5d014"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b8695a476f2413cef5d016"), 
+    "trip" : ObjectId("59b8695a476f2413cef5d014"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869a0c1beb014814c6a6d"), 
+    "trip" : ObjectId("59b869a0c1beb014814c6a6b"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869a0c1beb014814c6a6c"), 
+    "trip" : ObjectId("59b869a0c1beb014814c6a6b"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869ee79cf6e1534d5d442"), 
+    "trip" : ObjectId("59b869ee79cf6e1534d5d440"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b869ee79cf6e1534d5d443"), 
+    "trip" : ObjectId("59b869ee79cf6e1534d5d440"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86a33edd1f115e566cc64"), 
+    "trip" : ObjectId("59b86a33edd1f115e566cc62"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86a33edd1f115e566cc65"), 
+    "trip" : ObjectId("59b86a33edd1f115e566cc62"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86a41edd1f115e566cc68"), 
+    "trip" : ObjectId("59b86a41edd1f115e566cc66"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86a41edd1f115e566cc69"), 
+    "trip" : ObjectId("59b86a41edd1f115e566cc66"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86ae7b8a422173bb22796"), 
+    "trip" : ObjectId("59b86ae7b8a422173bb22794"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86ae7b8a422173bb22797"), 
+    "trip" : ObjectId("59b86ae7b8a422173bb22794"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b1ba20bd417e8df7684"), 
+    "trip" : ObjectId("59b86b1ba20bd417e8df7682"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b1ba20bd417e8df7685"), 
+    "trip" : ObjectId("59b86b1ba20bd417e8df7682"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b96fc8cb5e8b0012cba512"), 
+    "trip" : ObjectId("59b80d6ffa30390012bb4f82"), 
+    "date" : ISODate("2017-12-04T00:00:00.000+0000"), 
+    "events" : [
+        ObjectId("59b96fc8cb5e8b0012cba513")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b613fbfd13020012d9e733"), 
+    "trip" : ObjectId("59b613fbfd13020012d9e730"), 
+    "date" : ISODate("2017-02-02T00:00:00.000+0000"), 
+    "events" : [
+        ObjectId("59b9a36d252ae7c399538d29"), 
+        ObjectId("59b9a3e5252ae7c399538d2e"), 
+        ObjectId("59b9a45d252ae7c399538d33")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bad7e52895cc00120cdecf"), 
+    "trip" : ObjectId("59bad7e42895cc00120cdecd"), 
+    "date" : ISODate("2017-09-17T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb2c15bfb6850012cb6aca"), 
+    "trip" : ObjectId("59bad7e42895cc00120cdecd"), 
+    "date" : ISODate("2017-09-16T00:00:00.000+0000"), 
+    "events" : [
+        ObjectId("59bb2c15bfb6850012cb6acc")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bb2c15bfb6850012cb6acb"), 
+    "trip" : ObjectId("59bad7e42895cc00120cdecd"), 
+    "date" : ISODate("2017-09-18T00:00:00.000+0000"), 
+    "events" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b9845b23d19e6c38ae5"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "date" : ISODate("2016-12-31T05:00:00.000+0000"), 
+    "events" : [
+        ObjectId("59bbb21c52dc6c692d997204"), 
+        ObjectId("59bbb29452dc6c692d997209"), 
+        ObjectId("59bbb2b4e08b366e0377da87"), 
+        ObjectId("59bbb30b3941bf6ef5acf23e")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59b86b9845b23d19e6c38ae6"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "date" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "events" : [
+        ObjectId("59bbb51443c6927463efe5df"), 
+        ObjectId("59bbb54d43c6927463efe5e9"), 
+        ObjectId("59bbb5fabaf62975e2f7ab6c")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb51443c6927463efe5de"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "date" : ISODate("2017-01-02T05:00:00.000+0000"), 
+    "events" : [
+        ObjectId("59bbb51443c6927463efe5e4"), 
+        ObjectId("59bbb54d43c6927463efe5ed"), 
+        ObjectId("59bbb5fabaf62975e2f7ab71")
+    ], 
+    "__v" : NumberInt(0)
+}

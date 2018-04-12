@@ -1,0 +1,98 @@
+{ 
+    "_id" : ObjectId("59bbaa420f08ae633d97d9e4"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "text" : "Barak Ben-Noon voted for first in the poll New Poll ", 
+    "date" : ISODate("2017-09-15T10:23:39.503+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbaa570f08ae633d97d9e8"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "text" : "Jenny Lotova created the poll New Poll", 
+    "date" : ISODate("2017-09-15T10:23:39.503+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbb5fabaf62975e2f7ab70"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova added undefined to Sep 15th", 
+    "date" : ISODate("2017-09-15T11:13:48.692+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbba78f980ca81809a7d72"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:32:55.019+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbba91f980ca81809a7d73"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Barak Ben-Noon edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:32:55.019+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbba97f980ca81809a7d74"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:32:55.019+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbbaa9f980ca81809a7d75"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:32:55.019+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbbac46ad7cd827b967d6f"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:34:22.587+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbbb0033aee5835ed19045"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:35:18.521+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbc05b9cd5768f31cbcf9a"), 
+    "trip" : ObjectId("6e6f74696669636174696f6e"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:58:02.031+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbc09a57bd7a9024b3f465"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:59:04.245+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbc0a957bd7a9024b3f466"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "text" : "Barak Ben-Noon edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:59:04.245+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbc0ae57bd7a9024b3f467"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:59:04.245+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("59bbc0b157bd7a9024b3f468"), 
+    "trip" : ObjectId("59b86b9845b23d19e6c38ae3"), 
+    "text" : "Jenny Lotova edited the event king david on Sep 15th", 
+    "date" : ISODate("2017-09-15T11:59:04.245+0000"), 
+    "__v" : NumberInt(0)
+}
