@@ -1,11 +1,6 @@
 node {
     stage('Build') {
-        //
+		echo "test"
     }
-    stage('Test') {
-        //
-    }
-    stage('Deploy') {
-        //
-    }
+
 }
