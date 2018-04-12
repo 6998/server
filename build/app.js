@@ -44,10 +44,10 @@ Promise.all([_database2.default.connect(process.env.mongoUri), _express2.default
 
   console.log('\n=== Init finished ===\n');
 
-  _express2.default.app.use("/company", _example2.default);
+  _express2.default.app.use("/example", _example2.default);
 
   _express2.default.app.use("/", function (req, res) {
-    res.send("Text Pay Server ");
+    res.send("server is running");
   });
 }).catch(function (e) {
   console.log('errors in running server: \n ' + e);

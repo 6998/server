@@ -2,7 +2,7 @@ import Example from '../schemas/example'
 import response from '../utils/responses'
 
 const example = (req,res, next)=>{
-  response._400(res, null)
+  response._200(res, null)
 }
 
 

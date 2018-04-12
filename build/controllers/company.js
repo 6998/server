@@ -11,7 +11,7 @@ var _responses2 = _interopRequireDefault(_responses);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var example = function example(req, res, next) {
-  _responses2.default._400(res, null);
+  _responses2.default._200(res, null);
 };
 
 var requireLogin = function requireLogin(req, res, next) {

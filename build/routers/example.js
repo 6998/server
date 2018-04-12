@@ -16,7 +16,9 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var router = _express2.default.Router();
 
-router.route('/').all(_company2.default.requireLogin).get(_company2.default.example);
+router.route('/'
+// .all(company.requireLogin)
+).get(_company2.default.example);
 
 exports.default = router;
 //# sourceMappingURL=example.js.map

@@ -2,7 +2,7 @@ import database from './config/database'
 import app from './config/express'
 import dotenv from 'dotenv'
 import sendgrid from './config/sendgrid'
-import companyRouter from './routers/example'
+import exampleRouter from './routers/example'
 
 if(!process.env.ENV) // make sure we have env params
 	dotenv.config()
@@ -30,12 +30,12 @@ Promise.all([
 
 	console.log(`\n=== Init finished ===\n`)
 
-  app.app.use("/company", companyRouter)
+  app.app.use("/example", exampleRouter)
 
 
 
   app.app.use("/", (req, res)=>{
-    res.send("Text Pay Server ")
+    res.send("server is running")
   })
 
 
