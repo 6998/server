@@ -5,7 +5,6 @@ const example = (req,res, next)=>{
   response._200(res, null)
 }
 
-
 const requireLogin = (req, res, next)=>{
   // TODO
   // if(req.user)
@@ -13,7 +12,6 @@ const requireLogin = (req, res, next)=>{
   // else
   //   response._400(res, null)
 }
-
 
 module.exports = {
   example,

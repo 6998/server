@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/textOptions/connect.js"],"names":[],"mappings":";;;;;kBAAe,CACb,YADa,EAEb,eAFa,EAGb,SAHa,C","file":"connect.js","sourcesContent":["export default [\n  \"connect me\",\n  \"connect me to\",\n  \"connect\"\n]\n"]}
