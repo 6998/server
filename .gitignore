@@ -4,5 +4,12 @@ node_modules/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+build
+*.swp
+package.json
+package-lock.json
+
+test.js
 *.pem
 .env
