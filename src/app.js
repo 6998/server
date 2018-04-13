@@ -22,7 +22,6 @@ if(process.env.ENV === "development"){
 }
 
 Promise.all([
-	database.connect(process.env.mongoUri),
  	app.init(),
   sendgrid.init(),
 ]).then(()=>{

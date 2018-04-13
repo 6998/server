@@ -4,15 +4,12 @@ node_modules/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-<<<<<<< HEAD
+
 build
 *.swp
-*.pem
 package.json
 package-lock.json
 
 test.js
-=======
 *.pem
 .env
->>>>>>> 4b72d4f162c33db0d2c97f630dca7d650dbf1a42
