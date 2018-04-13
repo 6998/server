@@ -4,9 +4,7 @@ node {
 			checkout scm
 		}
         stage("npm install") {
-            steps {
-                sh 'npm install'
-            }
+			sh 'npm install'
         }
     } catch (e) {
 	  currentBuild.result = 'FAILURE'
