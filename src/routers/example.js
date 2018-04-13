@@ -6,7 +6,4 @@ router.route('/')
   .all(company.requireLogin)
   .get(company.example)
 
-
-
-
 export default router;
