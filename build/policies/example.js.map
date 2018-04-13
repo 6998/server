@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/policies/example.js"],"names":["acl","memoryBackend"],"mappings":"AAAA;;AAEA;;;;AACA;;;;;;AAEA,IAAMA,MAAM,kBAAQ,IAAI,cAAIC,aAAR,EAAR,CAAZ","file":"example.js","sourcesContent":["'use strict';\n\nimport ACL from 'acl'\nimport responses from '../utils/responses'\n\nconst acl = new ACL(new ACL.memoryBackend())\n\n"]}

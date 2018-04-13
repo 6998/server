@@ -8,7 +8,6 @@ if(!process.env.ENV) // make sure we have env params
 	dotenv.config()
 
 // init dotenv for development
-
 global.promise = Promise
 
 
@@ -23,9 +22,8 @@ if(process.env.ENV === "development"){
 }
 
 Promise.all([
-	database.connect(process.env.mongoUri),
  	app.init(),
-  sendgrid.init()
+  sendgrid.init(),
 ]).then(()=>{
 
 	console.log(`\n=== Init finished ===\n`)

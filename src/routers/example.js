@@ -3,9 +3,8 @@ import company from '../controllers/company'
 const router = express.Router();
 
 router.route('/')
-  // .all(company.requireLogin)
+  .all(company.requireLogin)
   .get(company.example)
-
 
 
 
