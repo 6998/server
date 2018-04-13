@@ -1,10 +1,9 @@
-pipeline {
-    agent any
-    stages {
+node {
+    try {
 		stage("Checkout") {
 			checkout scm
 		}
-        stage('npm install') {
+        stage("npm install") {
             steps {
                 sh 'npm install'
             }
