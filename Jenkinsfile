@@ -8,5 +8,8 @@ node {
                 sh 'npm install'
             }
         }
-    }
+    } catch (e) {
+	  currentBuild.result = 'FAILURE'
+	  throw e
+  	}
 }
