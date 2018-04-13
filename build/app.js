@@ -43,9 +43,7 @@ if (process.env.ENV === "development") {
 Promise.all([_database2.default.connect(process.env.mongoUri), _express2.default.init(), _sendgrid2.default.init()]).then(function () {
 
   console.log('\n=== Init finished ===\n');
-
   _express2.default.app.use("/example", _example2.default);
-
   _express2.default.app.use("/", function (req, res) {
     res.send("server is running");
   });

@@ -7,7 +7,4 @@ router.route('/')
   .get(company.example)
 
 
-
-
-
 export default router;
