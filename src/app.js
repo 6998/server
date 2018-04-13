@@ -28,9 +28,7 @@ Promise.all([
 ]).then(()=>{
 
 	console.log(`\n=== Init finished ===\n`)
-
   app.app.use("/example", exampleRouter)
-
   app.app.use("/", (req, res)=>{
     res.send("server is running")
   })
