@@ -17,6 +17,11 @@ before(function () {
 // });
 
 describe('Validate', () => {
+  it('should return false', ()=>{
+    cognito_validation(null, (err, user)=>{
+      assert.isTrue(err);
+    })
+  })
   it('Should check validation', () => {
 
   })

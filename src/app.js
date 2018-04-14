@@ -2,6 +2,7 @@ import app from './config/express'
 import dotenv from 'dotenv'
 import sendgrid from './config/sendgrid'
 import exampleRouter from './routers/example'
+import cognitoAuth from './models/cognito-validation'
 
 if(!process.env.ENV) // make sure we have env params
 	dotenv.config()
@@ -20,6 +21,7 @@ Promise.all([
 ]).then(()=>{
 	console.log(`\n=== Init finished ===\n`)
 
+  app.app.use(cognitoAuth)
   app.app.use("/example", exampleRouter)
   app.app.use("/", (req, res) => { res.send("server is running") })
 
