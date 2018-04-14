@@ -6,7 +6,7 @@ import passport from 'passport'
 import session from 'express-session'
 import mongoose from 'mongoose'
 import cors from 'cors'
-import Company from '../schemas/example'
+
 // const MongoStore = require('connect-mongostore')(session);
 const MongoStore = require('connect-mongo')(session)
 
@@ -20,7 +20,7 @@ module.exports.init = ()=> {
     app.use(bodyParser.json())
 
 		app.use(bodyParser.urlencoded({ extended: true }))
-	
+
 		app.use(cookieParser())
 
 		app.use((req,res,next)=>{
@@ -30,37 +30,6 @@ module.exports.init = ()=> {
 			else
 				next()
 		})
-		
-		// app.use(session({
-		// 	secret: 'foo',
-		// 	name: "textpay",
-		// 	store: new MongoStore({ mongooseConnection: mongoose.connection }),
-     //  resave: true,
-     //  saveUninitialized: true,
-     //  // cookie: {
-     //  //   domain: "localhost"
-     //  // }
-		// }))
-		
-		// app.use(passport.initialize())
-		
-		// app.use(passport.session())
-					
-		// Serialize sessions
-		// passport.serializeUser(function (user, done) {
-		// 	done(null, user._id)
-		// })
-		//
-		// // Deserialize sessions
-		// passport.deserializeUser(function (id, done) {
-     //  Company.findOne({
-		// 		_id: id
-		// 	}, '-salt -password', function (err, user) {
-		// 		if(!user)
-		// 			return done(err, null)
-		// 		done(err, user)
-		// 	})
-		// });
 
     app.use(function (req, res, next) {
 
@@ -80,7 +49,7 @@ module.exports.init = ()=> {
       // Pass to next layer of middleware
       next();
     });
-		
+
 		// init startegies
 		// require('./passport')(passport)
 
@@ -93,6 +62,5 @@ module.exports.init = ()=> {
 
 	})
 }
-
 
 module.exports.app = app;
