@@ -1,4 +1,3 @@
-import database from './config/database'
 import app from './config/express'
 import dotenv from 'dotenv'
 import sendgrid from './config/sendgrid'
@@ -14,11 +13,6 @@ global.promise = Promise
 if(process.env.ENV === "development"){
   dotenv.config()
 	console.log(`\n\n=== ${process.env.ENV} ===\n`)
-
-	// prints mongoose errors //
-	// mongoose.set('debug', (collectionName, method, query, doc) => {
-	// 	debug(`${collectionName}.${method}`, util.inspect(query, false, 20), doc)
-	// })
 }
 
 Promise.all([
