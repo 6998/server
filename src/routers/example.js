@@ -5,5 +5,6 @@ const router = express.Router();
 router.route('/')
   .all(company.requireLogin)
   .get(company.example)
+  .post(company.example)
 
 export default router;

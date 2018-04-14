@@ -2,7 +2,7 @@ import Example from '../schemas/example'
 import response from '../utils/responses'
 
 const example = (req,res, next)=>{
-  response._200(res, null)
+  response._200(res, true)
 }
 
 const requireLogin = (req, res, next)=>{
