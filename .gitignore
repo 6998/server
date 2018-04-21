@@ -8,6 +8,5 @@ node_modules/
 build
 *.swp
 
-test.js
 *.pem
 .env
